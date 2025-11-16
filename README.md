@@ -12,13 +12,7 @@ Berpindah halaman menggunakan sistem route yang rapi.
 ✅ Side Menu (Drawer)
 Berisi menu untuk berpindah ke halaman:
 
-Home
-
-Profile
-
-About
-
-Settings
+Home, Profile, About
 
 ✅ Tema Gradient Ungu → Pink (Full App UI)
 Semua halaman memakai background gradient elegan.
@@ -28,13 +22,7 @@ Semua halaman memakai background gradient elegan.
 LoginPage : Username: h1d023007  
 Password: tugas7
 
-HomePage
-
-ProfilePage
-
-AboutPage
-
-SettingsPage
+HomePage, ProfilePage, AboutPage
 
 Tidak sama dengan modul (lebih kreatif)
 Menggunakan:
@@ -46,8 +34,6 @@ Rounded drawer
 Chip UI
 
 Transition animasi
-
-
 
 1. main.dart
 
